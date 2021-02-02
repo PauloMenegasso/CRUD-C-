@@ -1,0 +1,7 @@
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\bin\Debug\CRUD_De_Series.exe.config
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\bin\Debug\CRUD_De_Series.exe
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\bin\Debug\CRUD_De_Series.pdb
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\obj\Debug\CRUD_De_Series.csprojAssemblyReference.cache
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\obj\Debug\CRUD_De_Series.csproj.CoreCompileInputs.cache
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\obj\Debug\CRUD_De_Series.exe
+C:\Users\paulo.filho\source\repos\CRUD_De_Series\obj\Debug\CRUD_De_Series.pdb
